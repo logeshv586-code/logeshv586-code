@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Logesh AI Product Engineer portfolio illustration</title>
+<desc id="desc">Stylized overview based on the portfolio's public React source: light glass design, Product engineering orchestrated hero, product build runtime, and project cards. Not a live website screenshot.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9fcff"/><stop offset=".55" stop-color="#f0f8ff"/><stop offset="1" stop-color="#f8f5ff"/></linearGradient>
+ <linearGradient id="headline" x1="0" x2="1"><stop stop-color="#087bbc"/><stop offset=".55" stop-color="#4357d5"/><stop offset="1" stop-color="#9b57db"/></linearGradient>
+ <linearGradient id="console" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#172d48"/><stop offset="1" stop-color="#0c1930"/></linearGradient>
+ <linearGradient id="button" x1="0" x2="1"><stop stop-color="#247bd6"/><stop offset="1" stop-color="#6657d9"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#7ab9ef" stop-opacity=".34"/><stop offset="1" stop-color="#7ab9ef" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#526880" flood-opacity=".16"/></filter>
+ <filter id="shadowsmall" x="-30%" y="-50%" width="160%" height="200%"><feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#6583a0" flood-opacity=".13"/></filter>
+</defs>
+<rect width="1200" height="675" rx="26" fill="#dfeaf3"/>
+<rect x="12" y="12" width="1176" height="651" rx="20" fill="url(#bg)"/>
+<circle cx="190" cy="290" r="360" fill="url(#glow)"/>
+<circle cx="1050" cy="410" r="390" fill="url(#glow)"/>
+<!-- browser chrome -->
+<path d="M32 12 H1168 Q1188 12 1188 32 V66 H12 V32 Q12 12 32 12 Z" fill="#f4f8fe"/>
+<path d="M12 66 H1188" stroke="#dce5ef"/>
+<circle cx="39" cy="39" r="6" fill="#ff8181"/><circle cx="61" cy="39" r="6" fill="#fac766"/><circle cx="83" cy="39" r="6" fill="#80d1a9"/>
+<rect x="265" y="24" width="670" height="29" rx="14.5" fill="white" stroke="#e1e8f2"/>
+<rect x="286" y="35" width="9" height="9" rx="2" fill="#74bca2"/><text x="309" y="44" font-family="Arial,sans-serif" font-size="13" fill="#668099">aideveloperlogesh.netlify.app</text>
+<!-- navigation glass -->
+<rect x="81" y="91" width="1038" height="60" rx="26" fill="#ffffff" opacity=".91" stroke="#e1e9f3" filter="url(#shadowsmall)"/>
+<rect x="102" y="108" width="28" height="28" rx="9" fill="#226ed0"/><path d="M118 113 L111 125 L117 125 L113 133 L123 121 L117 121 Z" fill="white"/>
+<text x="140" y="122" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#1b324c">Logesh</text>
+<text x="140" y="137" font-family="Arial,sans-serif" font-size="9" fill="#71839a">AI Product Engineer</text>
+<g font-family="Arial,sans-serif" font-size="13" fill="#5c6e83"><text x="521" y="126">Products</text><text x="618" y="126">System</text><text x="709" y="126">Projects</text><text x="808" y="126">Media</text></g>
+<rect x="949" y="104" width="151" height="34" rx="17" fill="#163650"/><text x="975" y="125" font-family="Arial,sans-serif" font-size="12" fill="#ffffff" font-weight="700">Start a project ↗</text>
+<!-- hero -->
+<rect x="86" y="200" width="427" height="26" rx="13" fill="#eaf6f9" stroke="#c8e8ed"/><circle cx="103" cy="213" r="4" fill="#1db6a4"/>
+<text x="115" y="218" font-family="Arial,sans-serif" font-size="12" fill="#286d83">Building public AI products &amp; automation</text>
+<text x="83" y="293" font-family="Arial,sans-serif" font-size="43" font-weight="800" letter-spacing="-1.8" fill="#17314d">Product engineering,</text>
+<text x="83" y="347" font-family="Arial,sans-serif" font-size="53" font-weight="800" letter-spacing="-2.1" fill="url(#headline)">orchestrated.</text>
+<text x="86" y="390" font-family="Arial,sans-serif" font-size="15" fill="#61758c">Research, agentic AI, full-stack engineering,</text>
+<text x="86" y="415" font-family="Arial,sans-serif" font-size="15" fill="#61758c">desktop apps and automation — built to ship.</text>
+<rect x="84" y="450" width="170" height="43" rx="16" fill="url(#button)" filter="url(#shadowsmall)"/><text x="105" y="476" font-family="Arial,sans-serif" font-size="14" fill="#fff" font-weight="700">Explore products  →</text>
+<rect x="266" y="450" width="150" height="43" rx="16" fill="#fff" stroke="#d8e3ef"/><text x="291" y="476" font-family="Arial,sans-serif" font-size="14" fill="#35516f" font-weight="700">▶  Product story</text>
+<rect x="87" y="524" width="252" height="51" rx="18" fill="white" opacity=".9" stroke="#dfe9f2"/><circle cx="112" cy="549" r="14" fill="#d4eafa"/><text x="132" y="544" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#243e5b">Logesh</text><text x="132" y="561" font-family="Arial,sans-serif" font-size="11" fill="#7a8b9e">AI Product Engineer · Builder</text>
+<text x="377" y="546" font-family="Arial,sans-serif" font-size="22" font-weight="800" fill="#233c5b">11</text><text x="375" y="563" font-family="Arial,sans-serif" font-size="11" fill="#7a8b9e">public projects</text>
+<!-- product runtime console -->
+<rect x="632" y="201" width="494" height="342" rx="21" fill="url(#console)" filter="url(#shadow)"/>
+<rect x="632" y="201" width="494" height="51" rx="21" fill="#243953"/><rect x="632" y="229" width="494" height="23" fill="#243953"/>
+<circle cx="658" cy="227" r="5" fill="#ee8189"/><circle cx="676" cy="227" r="5" fill="#ebc777"/><circle cx="694" cy="227" r="5" fill="#79d4b6"/>
+<text x="753" y="232" font-family="Arial,sans-serif" font-size="13" fill="#cadcf3" font-weight="700">◈  Product Build Runtime</text>
+<circle cx="1058" cy="227" r="4" fill="#34dda3"/><text x="1070" y="232" font-family="Arial,sans-serif" font-size="11" fill="#66e2b7">LIVE</text>
+<rect x="654" y="272" width="296" height="190" rx="13" fill="#10243c" stroke="#2b425e"/>
+<text x="672" y="299" font-family="Arial,sans-serif" font-size="14" fill="#e2edfc" font-weight="700">Execution trace</text>
+<g font-family="monospace" font-size="12"><text x="673" y="327" fill="#61d6b8">01  <tspan fill="#c6d9ef">[INTENT] outcome structured</tspan></text>
+<text x="673" y="352" fill="#61d6b8">02  <tspan fill="#c6d9ef">[RESEARCH] evidence collected</tspan></text>
+<text x="673" y="377" fill="#61d6b8">03  <tspan fill="#c6d9ef">[ARCH] boundaries composed</tspan></text>
+<text x="673" y="402" fill="#61d6b8">04  <tspan fill="#c6d9ef">[BUILD] workflow assembled</tspan></text>
+<text x="673" y="427" fill="#61d6b8">05  <tspan fill="#c6d9ef">[VERIFY] checks complete</tspan></text></g>
+<g font-family="Arial,sans-serif"><rect x="961" y="272" width="144" height="86" rx="13" fill="#1a3554"/><text x="973" y="292" font-size="11" fill="#9bb2cb">Product lines</text><text x="973" y="325" font-size="28" font-weight="800" fill="#fff">06</text><text x="973" y="343" font-size="10" fill="#9bb2cb">flagship builds</text>
+<rect x="961" y="368" width="144" height="94" rx="13" fill="#1a3554"/><text x="973" y="387" font-size="11" fill="#9bb2cb">Build model</text><text x="973" y="418" font-size="24" font-weight="800" fill="#fff">5-stage</text><text x="973" y="443" font-size="10" fill="#9bb2cb">understand → verify</text></g>
+<path d="M687 499 H1072" stroke="#4d6683" stroke-width="3" stroke-linecap="round"/>
+<g font-family="Arial,sans-serif" font-size="11" fill="#b7d0e8" text-anchor="middle">
+ <circle cx="687" cy="499" r="9" fill="#3f9bca"/><circle cx="784" cy="499" r="9" fill="#3f9bca"/><circle cx="881" cy="499" r="9" fill="#3f9bca"/><circle cx="978" cy="499" r="9" fill="#3f9bca"/><circle cx="1072" cy="499" r="9" fill="#4bd2ae"/>
+ <text x="687" y="525">Understand</text><text x="784" y="525">Research</text><text x="881" y="525">Architect</text><text x="978" y="525">Build</text><text x="1072" y="525">Verify</text>
+</g>
+<!-- bottom accent and caption -->
+<rect x="89" y="613" width="1025" height="1" fill="#d4e4f3"/>
+<text x="91" y="638" font-family="Arial,sans-serif" font-size="13" fill="#7488a2">AI PRODUCT ENGINEER  ·  REACT  ·  AGENTIC AI  ·  AUTOMATION  ·  VERIFICATION</text>
+<text x="1087" y="638" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#8ba0b4">SOURCE-BASED ILLUSTRATION</text>
+</svg>
