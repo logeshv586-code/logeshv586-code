@@ -18,6 +18,23 @@
 
 ---
 
+## Live Portfolio
+
+<div align="center">
+
+<a href="https://aideveloperlogesh.netlify.app/"><img src="https://img.shields.io/badge/VISIT_LIVE_PORTFOLIO-OPEN_WEBSITE-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit live AI Developer portfolio" /></a>
+<a href="https://github.com/logeshv586-code/logesh-updated-portfolio-final"><img src="https://img.shields.io/badge/PORTFOLIO_SOURCE-VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github" alt="View portfolio source code" /></a>
+
+[![Illustrated preview of Logesh AI Product Engineer portfolio](assets/portfolio-preview.svg)](https://aideveloperlogesh.netlify.app/)
+
+**[Explore the full AI Developer Portfolio →](https://aideveloperlogesh.netlify.app/)**
+
+*Preview illustration reflects the portfolio's source design; it is not a live screenshot.*
+
+</div>
+
+---
+
 ## Executive Snapshot
 
 I build **AI-native products, engineering systems, automation platforms, and research-driven developer tools**.
